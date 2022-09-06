@@ -30,7 +30,6 @@ ul {
 .header {
     background-color:var(--white);
     width: 1600px;
-    border-bottom: 1px solid #757575;
 }
 
 
@@ -66,7 +65,6 @@ body {
 }
 
 .container {
-    width: 1200px;
 }
 
 .header-tel {
@@ -233,7 +231,6 @@ body {
 
 .images {
     display: flex;
-    grid-template-columns: auto;
 
 }
 
