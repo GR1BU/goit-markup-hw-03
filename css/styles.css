@@ -233,6 +233,7 @@ body {
 
 .images {
     display: flex;
+    grid-template-columns: auto;
 
 }
 
