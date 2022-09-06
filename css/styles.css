@@ -255,6 +255,7 @@ body {
 }
 
 .main-section {
+    background-color: var(--background);
     padding-top: 200px;
     padding-bottom: 200px;
 }
