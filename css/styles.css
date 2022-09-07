@@ -442,7 +442,8 @@ body {
 }
 
 .footer {
-    background:var(--background)
+    background:var(--background);
+    margin: 60px;
 
 }
 
