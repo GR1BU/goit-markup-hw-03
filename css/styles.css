@@ -40,7 +40,7 @@ ul {
 }
 
 .display {
-    display: inline;
+ 
 }
 
 .header {
@@ -51,6 +51,7 @@ ul {
 
 
 .main-list {
+    display: inline;
     display: flex;
 
 }
@@ -89,12 +90,15 @@ body {
 }
 
 
-
+.mail-tel {
+    display: inline;
+}
 
 
 
 
 .studio {
+    display: inline;
     margin-top: 24px;
     padding-left: 215px;
     font-family: 'Raleway';
