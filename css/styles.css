@@ -39,8 +39,11 @@ ul {
 
 }
 
-.header {
+.display {
     display: inline;
+}
+
+.header {
     background-color:var(--white);
     width: 1600px;
     border-bottom: 1px solid var(--background);
