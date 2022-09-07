@@ -40,6 +40,7 @@ ul {
 }
 
 .header {
+    display: inline;
     background-color:var(--white);
     width: 1600px;
     border-bottom: 1px solid var(--background);
@@ -91,7 +92,7 @@ body {
 
 
 .studio {
-    padding-top: 24px;
+    margin-top: 24px;
     padding-left: 215px;
     font-family: 'Raleway';
     text-decoration: none;
