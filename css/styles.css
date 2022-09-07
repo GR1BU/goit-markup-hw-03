@@ -248,7 +248,7 @@ body {
     grid-template-columns: repeat(3, 1fr);
     grid-column-gap: 30px;
     grid-row-gap: 1em;
-
+    margin-bottom: 94px;
 }
 
 .square {
@@ -456,6 +456,7 @@ body {
 
 .footer-list {
     margin-left: 215px;
+    margin-top: 20px;
 
 }
 
