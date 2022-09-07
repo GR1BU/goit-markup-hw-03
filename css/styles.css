@@ -91,6 +91,7 @@ body {
 
 
 .mail-tel {
+    text-align: right;
 }
 
 
@@ -138,6 +139,7 @@ body {
 
 .header-list {
     display: flex;
+    text-align: center;
 
 }
 
@@ -325,7 +327,7 @@ body {
 
 .photos {
     display: flex;
-    margin-left: 215px;
+    text-align: center;
 
   
 }
@@ -401,6 +403,7 @@ body {
 
 .team-list {
     display: flex;
+    text-align: center;
 
 
 
