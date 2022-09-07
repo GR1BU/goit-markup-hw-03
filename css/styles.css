@@ -20,6 +20,11 @@ img {
     height: auto;
 }
 
+.text-btn {
+    padding-left: 22px;
+    padding-right: 22px;
+}
+
 ul {
     margin: 0;
     padding: 0;
