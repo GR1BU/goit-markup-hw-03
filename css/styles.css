@@ -30,6 +30,7 @@ ul {
 .header {
     background-color:var(--white);
     width: 1600px;
+    border-bottom: 1px solid var(--background);
 }
 
 
@@ -231,6 +232,10 @@ body {
 
 .images {
     display: flex;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 1em;
 
 }
 
