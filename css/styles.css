@@ -93,8 +93,7 @@ body {
 
 
 .mail-tel {
-    display: inline;
-    text-align: right;
+    display: flex;
 }
 
 
@@ -141,8 +140,9 @@ body {
 }
 
 .header-list {
+    justify-content: center;
     display: flex;
-    text-align: center;
+
 
 }
 
@@ -341,6 +341,7 @@ body {
 
 .photos {
     display: flex;
+    justify-content: center;
 
   
 }
@@ -416,14 +417,13 @@ body {
 
 .team-list {
     display: flex;
-    text-align: center;
+    justify-content: center;
 
 
 
 }
 
 .main-frame {
-    color: rgba(0, 0, 0, 0);
 
 }
 
