@@ -97,6 +97,7 @@ body {
 
 
 .mail-tel {
+    justify-content: right;
     display: flex;
 }
 
@@ -104,8 +105,9 @@ body {
 
 
 .studio {
-    display: inline;
     margin-top: 24px;
+    margin-bottom: 25px;
+    display: inline;
     padding-left: 215px;
     font-family: 'Raleway';
     text-decoration: none;
@@ -144,6 +146,7 @@ body {
 }
 
 .header-list {
+    margin-left: 93px;
     justify-content: center;
     display: flex;
 
