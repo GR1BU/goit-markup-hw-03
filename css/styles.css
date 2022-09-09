@@ -15,6 +15,7 @@ h1, h2, h3, p {
 }
 
 img {
+    margin: 30px;
     display: block;
     max-width: 100%;
     height: auto;
@@ -51,6 +52,8 @@ ul {
 
 
 .main-list {
+    margin-bottom: 94px;
+    margin-top: 94px;
     display: inline;
     display: flex;
 
@@ -268,6 +271,8 @@ body {
 
 
 .main-btn {
+    margin: 0 auto;
+    display: block;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
     background:var(--focus-color)
@@ -307,7 +312,7 @@ body {
 }
 
 .main-description {
-    font-size: 14px;
+    font-size: 14px;p
     line-height: 1.71;
     /* or 171% */
    letter-spacing: 0.03em;
@@ -327,7 +332,6 @@ body {
 
 .photos {
     display: flex;
-    text-align: center;
 
   
 }
@@ -444,13 +448,14 @@ body {
 .footer {
     background:var(--background);
     margin: 60px;
+    height: 252px;
 
 }
 
 
 .footer-logo {
     margin-bottom: 20px;
-    margin-top: 60px;
+    padding-top: 60px;
     margin-left: 215px;
     font-family: 'Raleway';
     font-weight: 700;
