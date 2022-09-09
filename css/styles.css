@@ -95,6 +95,7 @@ body {
 
 
 .mail-tel {
+    display: inline;
     text-align: right;
 }
 
@@ -167,6 +168,11 @@ body {
 }
 
 .type-btn {
+    width: 103px;
+    height: 38px;
+    left: 846px;
+    top: 174px;
+    border-radius: 4px;
     margin-left: 8px;
     margin-right: 8px;
     background: #F5F4FA;
@@ -452,7 +458,6 @@ body {
 
 .footer {
     background:var(--background);
-    margin: 60px;
     height: 252px;
 
 }
