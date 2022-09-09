@@ -86,6 +86,7 @@ body {
 }
 
 .container {
+    width: 1200px;
 }
 
 .header-tel {
@@ -252,6 +253,10 @@ body {
 
 .portfolio-item {
     color: rgba(0, 0, 0, 0);
+}
+
+.container-9 {
+
 }
 
 .images {
