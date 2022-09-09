@@ -21,6 +21,10 @@ img {
     height: auto;
 }
 
+.header> .container {
+    display: flex;
+}
+
 .text-btn {
     font-weight: 500;
     font-size: 16px;
