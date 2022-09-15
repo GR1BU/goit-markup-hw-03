@@ -97,7 +97,8 @@ body {
 
 
 .mail-tel {
-    justify-content: right;
+    align-items: center+
+    -;*
     display: flex;
 }
 
@@ -132,7 +133,8 @@ body {
     display: flex;
     margin-right: 50px;
     text-decoration: none;
-    font-weight: 500;
+    fon-
+    t-weight: 500;
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
@@ -146,6 +148,7 @@ body {
 }
 
 .header-list {
+    margin-top: 32px;
     margin-left: 93px;
     justify-content: center;
     display: flex;
@@ -199,9 +202,10 @@ body {
 
 
 .item-mail {
+
     text-decoration: none;
     font-weight: 500;
-    font-size: 14px;
+-    font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
     color:var(--adress-color)
